@@ -86,6 +86,7 @@ html {
   -webkit-font-smoothing: antialiased; }
 
 body {
+  background-color: #17348b;
   font-family: "roboto", sans-serif;
   font-size: 14px;
   font-style: none;
