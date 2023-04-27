@@ -2503,6 +2503,8 @@ body {
     margin-top: 16px; }
     .mh-service .mh-service-item .fa.purple-color {
       color: #9774fa; }
+      .mh-service .mh-service-item .fa.green-color {
+        color: #06df47; }
     .mh-service .mh-service-item .fa.iron-color {
       color: #ed7256; }
     .mh-service .mh-service-item .fa.sky-color {
@@ -2684,3 +2686,7 @@ BLOG Pagination
   margin-bottom: 30px; }
 
 /*# sourceMappingURL=styles.css.map */
+
+.skills{
+	list-style-type: circle;
+ }

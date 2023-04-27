@@ -1,0 +1,5 @@
+# Editors
+*.sublime*
+
+# node stuff
+node_modules/
